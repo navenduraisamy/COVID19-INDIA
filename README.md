@@ -9,9 +9,9 @@
 ### Dashboard
 ![covid19-dash](images/statewise.png)
 
-    The above figure represents number of confirmed, recoverd and deceased cases in states with corona virus spread.This figure represents the cases in states upto 19th April,2020
+The above figure represents number of confirmed, recoverd and deceased cases in states with corona virus spread.This figure represents the cases in states upto 19th April,2020
   
-    This dashboard has been deployed to heroku, visit the site through this [link](https://indiafightscovid19.herokuapp.com/).
+This dashboard has been deployed to heroku, visit the site through this [link](https://indiafightscovid19.herokuapp.com/).
 
 ### Preparations
 
@@ -20,8 +20,8 @@
   ```
   pip install requirements.txt
   ```
-  
-    Run script through,
+  Run script through,
+    
   ```
   python appfile.py
   ```
