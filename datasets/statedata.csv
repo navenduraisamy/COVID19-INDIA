@@ -1,0 +1,38 @@
+state_name,confirmed,recovered,deaths,active,state
+Maharashtra,4200,507,223,3470,MH
+Delhi,2003,290,45,1668,DL
+Gujarat,1743,105,63,1575,GJ
+Rajasthan,1478,205,23,1250,RJ
+Tamil Nadu,1477,411,15,1051,TN
+Madhya Pradesh,1407,131,72,1204,MP
+Uttar Pradesh,1100,127,17,956,UP
+Telangana,858,186,21,651,TG
+Andhra Pradesh,647,65,17,565,AP
+Karnataka,390,111,16,263,KA
+Kerala,401,270,2,129,KL
+Jammu and Kashmir,354,56,5,293,JK
+West Bengal,310,62,12,236,WB
+Haryana,250,104,3,143,HR
+Punjab,244,37,16,191,PB
+Bihar,96,42,2,52,BR
+Odisha,61,24,1,36,OR
+Uttarakhand,44,11,0,33,UT
+Jharkhand,41,0,2,39,JH
+Himachal Pradesh,39,16,2,21,HP
+Chhattisgarh,36,25,0,11,CT
+Assam,35,17,1,17,AS
+Chandigarh,26,13,0,13,CH
+Ladakh,18,14,0,4,LA
+AN Islands,15,11,0,4,AN
+Meghalaya,11,0,1,10,ML
+Goa,7,7,0,0,GA
+Puducherry,7,4,0,3,PY
+Manipur,2,1,0,1,MN
+Tripura,2,1,0,1,TR
+Mizoram,1,0,0,1,MZ
+Arunachal Pradesh,1,1,0,0,AR
+Nagaland,0,0,0,0,NL
+Dadra and Nagar Haveli,0,0,0,0,DN
+Daman and Diu,0,0,0,0,DD
+Lakshadweep,0,0,0,0,LD
+Sikkim,0,0,0,0,SK
