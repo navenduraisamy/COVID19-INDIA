@@ -166,7 +166,7 @@ def update_graph_scatter(self):
     traces.append(plotly.graph_objs.Scatter(
         x=df_state.state,
         y=df_state.recovered,
-        name='confirmed',
+        name='recovered',
         mode= 'lines',
         line={'color':'#2ECC71'}
             ))
@@ -195,7 +195,7 @@ def update_graph_scatter(self):
     traces.append(plotly.graph_objs.Scatter(
         x=df_ts.date,
         y=df_ts.totalRecovered,
-        name='confirmed',
+        name='recovered',
         mode= 'lines',
         line={'color':'#2ECC71'}
             ))
