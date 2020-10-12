@@ -2,7 +2,7 @@
 
   Coronaviruses are single-stranded RNA viruses, about 120 nanometers in diameter. They are susceptible to mutation and recombination and are therefore highly diverse. There are about 40 different varieties and they mainly infect human and non-human mammals and birds. They reside in bats and wild birds, and can spread to other animals and hence to humans.
   
-  This dashboard analyses and visualize the cases in each state, cumulative cases by date, the state with maximum death ratio, the state with maximum recovery ratio with the corona virus data till **19th April,2020**.
+  This dashboard analyses and visualize the cases in each state, cumulative cases by date, the state with maximum death ratio, the state with maximum recovery ratio with the corona virus(COVID 19) data till **19th April,2020**.
 
 
 ### Datasets
